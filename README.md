@@ -3,6 +3,8 @@
 > Caderno temático criado no NotebookLM como parte do bootcamp da DIO.  
 > **Autor:** Leandro Carlos Amaro de Souza  
 > **Plataforma:** [Acessar NotebookLM](https://notebooklm.google.com/notebook/d89566ef-dd54-4c51-9ef1-334805bf7cf9)
+
+> ⚠️ **Observação:** O NotebookLM exige login com conta Google para visualizar o caderno, mesmo com o link de acesso público. Caso não consiga acessar, todas as informações relevantes estão documentadas integralmente neste README.
  
 ---
  
